@@ -24,6 +24,4 @@ navigation:
     link: ./about.html
     sublist:
       - name: Image
-        link: ./index.html#small-image
-  - name: Another Page
-    link: ./another-page.html
+        link: ./index.html#Under-Construction
