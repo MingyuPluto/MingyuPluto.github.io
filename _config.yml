@@ -16,8 +16,8 @@ platforms:
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/mingyupluto
   - name: Instagram
-    icon: <i class="fa-brands fa-Instagram"></i>
-    link: https://www.Instagram.com/in/pluto_mingyu
+    icon: <i class="fa-brands fa-instagram"></i>
+    link: https://www.instagram.com/pluto_mingyu
 
 navigation:
   - name: Readme
