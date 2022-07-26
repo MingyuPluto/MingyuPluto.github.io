@@ -2,7 +2,7 @@ title: Pluto Mingyu's Observatory
 logo: /assets/img/logo.jpg
 email: lmg141511@gmail.com
 description: Aerospace and AI & Big Data Engineer, My research interests are CNN(Convolutional Neural Network) to solve the SGCP, and producing high-performance astronomical image datasets.
-favicon: true
+favicon: /assets/img/favicon.ico
 color-scheme: auto
 
 plugins:
