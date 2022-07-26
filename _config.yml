@@ -1,7 +1,7 @@
-title: Minimalistic
+title: Pluto Mingyu's Observatory
 logo: /assets/img/logo.jpg
-email: person@address.com
-description: Minimalistic is a theme powered by Jekyll.
+email: lmg141511@gmail.com
+description: Aerospace and AI & Big Data Engineer, My research interests are CNN(Convolutional Neural Network) to solve the SGCP, and producing high-performance astronomical image datasets.
 favicon: true
 color-scheme: auto
 
@@ -9,14 +9,15 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jemoji
+  - jekyll-remote-theme
 
 platforms:
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
-    link: https://github.com/vaibhavvikas
-  - name: LinkedIn
-    icon: <i class="fa-brands fa-linkedin"></i>
-    link: https://www.linkedin.com/in/vaibhavvikas
+    link: https://github.com/mingyupluto
+  - name: Instagram
+    icon: <i class="fa-brands fa-Instagram"></i>
+    link: https://www.Instagram.com/in/pluto_mingyu
 
 navigation:
   - name: Readme
