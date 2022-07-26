@@ -20,8 +20,8 @@ platforms:
     link: https://www.instagram.com/pluto_mingyu
 
 navigation:
-  - name: Readme
-    link: ./index.html
+  - name: Abouut
+    link: ./about.html
     sublist:
       - name: Image
         link: ./index.html#small-image
