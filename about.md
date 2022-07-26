@@ -6,8 +6,7 @@ layout: default
 
 ## Project ADML : Astronomical Datasets for Machine Learning
 [Link to Project ADML](./another-page.html)
-\n
-This project is producing high-performance astronomical image datasets.
+|This project is producing high-performance astronomical image datasets.
 
 # Aerospace Engineering
 
