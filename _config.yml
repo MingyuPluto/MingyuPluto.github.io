@@ -22,6 +22,11 @@ platforms:
 navigation:
   - name: Abouut
     link: ./about.html
+
+  - name: Project
+    link: ./project_overview.html
     sublist:
-      - name: Backup Index
-        link: ./backupindex.html
+      - name: Astronomy
+        sublist:
+          - name: Project ADML
+            link: ./project_adml.html
