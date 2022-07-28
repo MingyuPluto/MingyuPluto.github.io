@@ -2,7 +2,7 @@
 layout: default
 ---
 
-**Welcome to my git blog!**
+# *WELCOME TO MY Git Blog!*
 
 # Now Under construction
 
