@@ -24,8 +24,6 @@ layout: default
 
 ## Hi There! I'm Min-gyu 👋 😄
 
-</a>
-
 ### About me
 #### 🚀 Aerospace, 👨‍💻 AI & Big Data(Machine Learning) Engineer
 
@@ -35,8 +33,6 @@ layout: default
 - Master student in Department of Multimedia Engineering 
 - Interdisciplinary Program in IT-Bio Convergence System
 - AI & Big Data Labotory, Sunchon National University
-
-</a>
 
 #### Research Field
 - Aerospace Engineeirng
