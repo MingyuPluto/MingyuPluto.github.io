@@ -9,7 +9,8 @@ layout: default
 
 #### ✏ Study : Sunchon National University, Republic of Korea 🇰🇷
 - Bachelor of Engineering from Department of Aerospace Engineering. (Mar. 2015 ~ Feb. 2021)
-#### 　In Progress (Mar. 2022 ~ )
+
+#### In Progress (Mar. 2022 ~ )
 - Master student in Department of Multimedia Engineering 
 - Interdisciplinary Program in IT-Bio Convergence System
 - AI & Big Data Labotory, Sunchon National University
