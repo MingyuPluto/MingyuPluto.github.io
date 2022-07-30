@@ -10,7 +10,7 @@ layout: default
 #### ✏ Study : Sunchon National University, Republic of Korea 🇰🇷
 - Bachelor of Engineering from Department of Aerospace Engineering. (Mar. 2015 ~ Feb. 2021)
 
-#### In Progress (Mar. 2022 ~ )
+In Progress (Mar. 2022 ~ )
 - Master student in Department of Multimedia Engineering 
 - Interdisciplinary Program in IT-Bio Convergence System
 - AI & Big Data Labotory, Sunchon National University
@@ -24,7 +24,8 @@ layout: default
 - SGCP(Star-Galaxy Classification Problem)
 - Project ADML : Astronomy Datasets for Machine Learning
 
-  
+
+
 ![Python](https://img.shields.io/badge/-Python-555?style=flat&logo=python)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-555?style=flat&logo=pandas)&nbsp;
 ![Numpy](https://img.shields.io/badge/-Numpy-555?style=flat&logo=numpy)&nbsp;
@@ -38,14 +39,3 @@ layout: default
 ![Android Studio](https://img.shields.io/badge/-androidstudio-555?style=flat&logo=androidstudio)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-555?style=flat&logo=adobe-Photoshop)&nbsp;
 ![Lightroom](https://img.shields.io/badge/-lightroom-555?style=flat&logo=adobe-lightroom)&nbsp;
-
-
-<table>
-    <tr>
-        <td align="center"><a href="https://github.com/PlutoMingyu#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=PlutoMingyu&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/PlutoMingyu#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=PlutoMingyu&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
-        <td rowspan="2" align="center"><a href="https://github.com/PlutoMingyu#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PlutoMingyu&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/PlutoMingyu#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PlutoMingyu&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/PlutoMingyu#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PlutoMingyu&theme=default"/></a><a href="https://github.com/PlutoMingyu#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PlutoMingyu&theme=tokyonight"/></a></td>
-    </tr>
-</table>
