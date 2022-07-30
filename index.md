@@ -10,7 +10,7 @@ layout: default
 #### ✏ Study : Sunchon National University, Republic of Korea 🇰🇷
 - Bachelor of Engineering from Department of Aerospace Engineering. (Mar. 2015 ~ Feb. 2021)
 
-  In Progress (Mar. 2022 ~ )
+　In Progress (Mar. 2022 ~ )
 - Master student in Department of Multimedia Engineering 
 - Interdisciplinary Program in IT-Bio Convergence System
 - AI & Big Data Labotory, Sunchon National University
@@ -22,9 +22,7 @@ layout: default
 - Image Classification
 - Generative Model
 - SGCP(Star-Galaxy Classification Problem)
-- Project ADML : Astronomy Datasets for Machine Learning
-
-
+- Project ADML : Astronomy Datasets for Machine Learning\
 
 ![Python](https://img.shields.io/badge/-Python-555?style=flat&logo=python)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-555?style=flat&logo=pandas)&nbsp;
