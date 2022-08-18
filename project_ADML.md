@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+# Sample Update
 # Project ADML : Astronomical Datasets for Machine Learning
 
 # Now Under construction
