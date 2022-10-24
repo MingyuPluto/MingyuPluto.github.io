@@ -22,7 +22,7 @@ layout: default
 - Image Classification
 - Generative Model
 - SGCP(Star-Galaxy Classification Problem)
-- Project ADML : Astronomy Datasets for Machine Learning\
+- Project ADML : Astronomy Datasets for Machine Learning
 
 ![Python](https://img.shields.io/badge/-Python-555?style=flat&logo=python)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-555?style=flat&logo=pandas)&nbsp;
